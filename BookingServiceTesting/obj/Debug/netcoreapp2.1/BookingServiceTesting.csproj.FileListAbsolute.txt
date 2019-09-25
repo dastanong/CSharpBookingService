@@ -1,0 +1,17 @@
+C:\Users\ong_chun_tat_dastan\source\repos\BookingService\BookingServiceTesting\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ong_chun_tat_dastan\source\repos\BookingService\BookingServiceTesting\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ong_chun_tat_dastan\source\repos\BookingService\BookingServiceTesting\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ong_chun_tat_dastan\source\repos\BookingService\BookingServiceTesting\bin\Debug\netcoreapp2.1\BookingServiceTesting.deps.json
+C:\Users\ong_chun_tat_dastan\source\repos\BookingService\BookingServiceTesting\bin\Debug\netcoreapp2.1\BookingServiceTesting.runtimeconfig.json
+C:\Users\ong_chun_tat_dastan\source\repos\BookingService\BookingServiceTesting\bin\Debug\netcoreapp2.1\BookingServiceTesting.runtimeconfig.dev.json
+C:\Users\ong_chun_tat_dastan\source\repos\BookingService\BookingServiceTesting\bin\Debug\netcoreapp2.1\BookingServiceTesting.dll
+C:\Users\ong_chun_tat_dastan\source\repos\BookingService\BookingServiceTesting\bin\Debug\netcoreapp2.1\BookingServiceTesting.pdb
+C:\Users\ong_chun_tat_dastan\source\repos\BookingService\BookingServiceTesting\bin\Debug\netcoreapp2.1\BookingService.dll
+C:\Users\ong_chun_tat_dastan\source\repos\BookingService\BookingServiceTesting\bin\Debug\netcoreapp2.1\BookingService.pdb
+C:\Users\ong_chun_tat_dastan\source\repos\BookingService\BookingServiceTesting\obj\Debug\netcoreapp2.1\BookingServiceTesting.csprojAssemblyReference.cache
+C:\Users\ong_chun_tat_dastan\source\repos\BookingService\BookingServiceTesting\obj\Debug\netcoreapp2.1\BookingServiceTesting.csproj.CoreCompileInputs.cache
+C:\Users\ong_chun_tat_dastan\source\repos\BookingService\BookingServiceTesting\obj\Debug\netcoreapp2.1\BookingServiceTesting.AssemblyInfoInputs.cache
+C:\Users\ong_chun_tat_dastan\source\repos\BookingService\BookingServiceTesting\obj\Debug\netcoreapp2.1\BookingServiceTesting.AssemblyInfo.cs
+C:\Users\ong_chun_tat_dastan\source\repos\BookingService\BookingServiceTesting\obj\Debug\netcoreapp2.1\BookingServiceTesting.csproj.CopyComplete
+C:\Users\ong_chun_tat_dastan\source\repos\BookingService\BookingServiceTesting\obj\Debug\netcoreapp2.1\BookingServiceTesting.dll
+C:\Users\ong_chun_tat_dastan\source\repos\BookingService\BookingServiceTesting\obj\Debug\netcoreapp2.1\BookingServiceTesting.pdb

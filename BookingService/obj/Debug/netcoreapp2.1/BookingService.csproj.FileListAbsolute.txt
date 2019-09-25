@@ -1,0 +1,11 @@
+C:\Users\ong_chun_tat_dastan\source\repos\BookingService\BookingService\bin\Debug\netcoreapp2.1\BookingService.deps.json
+C:\Users\ong_chun_tat_dastan\source\repos\BookingService\BookingService\bin\Debug\netcoreapp2.1\BookingService.runtimeconfig.json
+C:\Users\ong_chun_tat_dastan\source\repos\BookingService\BookingService\bin\Debug\netcoreapp2.1\BookingService.runtimeconfig.dev.json
+C:\Users\ong_chun_tat_dastan\source\repos\BookingService\BookingService\bin\Debug\netcoreapp2.1\BookingService.dll
+C:\Users\ong_chun_tat_dastan\source\repos\BookingService\BookingService\obj\Debug\netcoreapp2.1\BookingService.csprojAssemblyReference.cache
+C:\Users\ong_chun_tat_dastan\source\repos\BookingService\BookingService\obj\Debug\netcoreapp2.1\BookingService.csproj.CoreCompileInputs.cache
+C:\Users\ong_chun_tat_dastan\source\repos\BookingService\BookingService\obj\Debug\netcoreapp2.1\BookingService.AssemblyInfoInputs.cache
+C:\Users\ong_chun_tat_dastan\source\repos\BookingService\BookingService\obj\Debug\netcoreapp2.1\BookingService.AssemblyInfo.cs
+C:\Users\ong_chun_tat_dastan\source\repos\BookingService\BookingService\bin\Debug\netcoreapp2.1\BookingService.pdb
+C:\Users\ong_chun_tat_dastan\source\repos\BookingService\BookingService\obj\Debug\netcoreapp2.1\BookingService.dll
+C:\Users\ong_chun_tat_dastan\source\repos\BookingService\BookingService\obj\Debug\netcoreapp2.1\BookingService.pdb
